@@ -1,0 +1,555 @@
+[
+  {
+    "id": "1",
+    "name": "JT Aaron",
+    "title": "From the Army and construction to civic tech",
+    "url": "https://technical.ly/entrepreneurship/jt-aaron-it-takes-the-village-philly-civic-tech-how-i-got-here/",
+    "date": "2026-10-15",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Founder"
+    ],
+    "professions": [
+      "Business & operations",
+      "Civic tech"
+    ],
+    "summary": "A startup builder draws on military service and construction experience.",
+    "classificationNote": "Founder supported by the series listing and article introduction.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "2",
+    "name": "Andrew Albert",
+    "title": "From philosophy to New Orleans’ startup ecosystem",
+    "url": "https://technical.ly/entrepreneurship/why-idea-village-leader-traded-academia-for-new-orleans-startups/",
+    "date": "2026-10-08",
+    "regions": [
+      "Louisiana"
+    ],
+    "experience": [
+      "Senior",
+      "Founder"
+    ],
+    "professions": [
+      "Business & operations",
+      "Ecosystem & community"
+    ],
+    "summary": "The Idea Village programs director reflects on startup operations, founding businesses and supporting entrepreneurs.",
+    "classificationNote": "Director role and founding experience stated in article.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "3",
+    "name": "Lindsey MacWha & Jennifer Corron",
+    "title": "Trading the classroom for a science kit business",
+    "url": "https://technical.ly/entrepreneurship/eastern-shore-teachers-science-kit-how-i-got-here/",
+    "date": "2026-10-02",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Founder"
+    ],
+    "professions": [
+      "STEM",
+      "Education & workforce"
+    ],
+    "summary": "Two Eastern Shore educators turned a pandemic project into The Science Nerds.",
+    "classificationNote": "Article describes the pair launching and operating their own company.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "4",
+    "name": "Scott Pulkowski",
+    "title": "An indie developer learns by building",
+    "url": "https://technical.ly/workforce/how-scott-pulkowski-uses-ai-to-build-apps-how-i-got-here/",
+    "date": "2026-09-24",
+    "regions": [
+      "Pittsburgh"
+    ],
+    "experience": [
+      "Midlevel"
+    ],
+    "professions": [
+      "Software development",
+      "IT & consulting"
+    ],
+    "summary": "A functional consultant experiments with AI and builds apps around personal interests.",
+    "classificationNote": "Midlevel is a suggested browsing label based on the professional role; exact seniority is not established.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "5",
+    "name": "Victor Espinoza",
+    "title": "Pursuing an engineering career through DACA delays",
+    "url": "https://technical.ly/workforce/how-daca-delays-stalled-a-philly-engineers-career/",
+    "date": "2026-08-27",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Midlevel"
+    ],
+    "professions": [
+      "Software development",
+      "Data & AI",
+      "STEM"
+    ],
+    "summary": "A Philadelphia engineer describes the path to JPMorgan and the immigration bureaucracy that interrupted his work.",
+    "classificationNote": "Midlevel is inferred from multiple engineering roles; the article does not give a formal level.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "6",
+    "name": "Colin Raby",
+    "title": "An AI class plants the seed for FarmMind",
+    "url": "https://technical.ly/workforce/lsu-spinout-farmmind-scales-ai-for-agriculture-how-i-got-here/",
+    "date": "2026-08-13",
+    "regions": [
+      "Louisiana"
+    ],
+    "experience": [
+      "Founder"
+    ],
+    "professions": [
+      "Data & AI",
+      "STEM"
+    ],
+    "summary": "A Louisiana State University course helped launch an agricultural technology company in Baton Rouge.",
+    "classificationNote": "Founder identified in the article.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "7",
+    "name": "Fehmida Kapadia",
+    "title": "From biochemistry to medtech investing",
+    "url": "https://technical.ly/entrepreneurship/fehmida-kapadia-fay-ventures-medtech-fund-fehmida-kapadia-how-i-got-here/",
+    "date": "2026-08-06",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Founder"
+    ],
+    "professions": [
+      "STEM",
+      "Venture capital"
+    ],
+    "summary": "A scientist’s path led to supporting Maryland startups through Amplify Medtech and Fay Ventures.",
+    "classificationNote": "Founder identified in article; STEM reflects research background, venture capital reflects the featured work.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "8",
+    "name": "Andy Rothwell",
+    "title": "Finding room for creativity in a software career",
+    "url": "https://technical.ly/civics/andy-rothwell-software-engineer-creative-outlet-how-i-got-here/",
+    "date": "2026-07-09",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Software development",
+      "Civic tech"
+    ],
+    "summary": "A municipal software engineer balances geospatial work with creative experiments.",
+    "classificationNote": "Senior is a browsing classification based on more than 13 years in tech, rather than a quoted title.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "9",
+    "name": "Jeric Jones",
+    "title": "Turning a gaming passion into new hardware",
+    "url": "https://technical.ly/workforce/fixing-mobile-gaming-limitations-with-physical-hardware-band-controller/",
+    "date": "2026-06-25",
+    "regions": [
+      "Louisiana"
+    ],
+    "experience": [
+      "Senior",
+      "Founder"
+    ],
+    "professions": [
+      "Software development",
+      "STEM",
+      "IT & consulting"
+    ],
+    "summary": "A New Orleans software engineer builds Band Controller while continuing his consulting career.",
+    "classificationNote": "Over a decade in engineering and the new venture are stated; Senior is an experience interpretation.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "10",
+    "name": "Alex Zhu",
+    "title": "Building a community around mutual aid",
+    "url": "https://technical.ly/workforce/alex-zhu-baltimore-guaranteed-income-club-how-i-got-here/",
+    "date": "2026-06-11",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Founder"
+    ],
+    "professions": [
+      "Ecosystem & community"
+    ],
+    "summary": "A public health worker’s career turns toward organizing and the Baltimore Guaranteed Income Club.",
+    "classificationNote": "Founder includes creators of community initiatives; article describes him launching the club.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "11",
+    "name": "Sara Hall",
+    "title": "From architecture to leading digital government",
+    "url": "https://technical.ly/civics/sara-hall-code-pa-digital-services-how-i-got-here/",
+    "date": "2026-05-28",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Design & UX",
+      "Product & project management",
+      "Civic tech"
+    ],
+    "summary": "Human-centered design connects a career in Philadelphia digital services to leadership at CODE PA.",
+    "classificationNote": "Executive director role stated. Philadelphia reflects the article market and earlier career; current role is statewide.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "12",
+    "name": "Sai Manvitha Nadella",
+    "title": "Landing a first developer role in a tough market",
+    "url": "https://technical.ly/workforce/grad-tech-job-advice-how-i-got-here/",
+    "date": "2026-04-30",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Junior"
+    ],
+    "professions": [
+      "Software development"
+    ],
+    "summary": "A recent UMBC graduate used recruiter follow-ups and industry knowledge to find a tailored role at Volanno.",
+    "classificationNote": "Junior based on the article’s account of her first post-university developer role.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "13",
+    "name": "Amanda Haworth",
+    "title": "From truck driving to a first career in tech",
+    "url": "https://technical.ly/workforce/amanda-haworth-truck-driver-to-tech-career-change-how-i-got-here/",
+    "date": "2026-04-09",
+    "regions": [
+      "Pittsburgh"
+    ],
+    "experience": [
+      "Junior"
+    ],
+    "professions": [
+      "IT & consulting"
+    ],
+    "summary": "After 23 years driving trucks, a Per Scholas bootcamp helped her move into technology work.",
+    "classificationNote": "Series listing and search excerpt support career change. Junior and profession require full-article review.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "14",
+    "name": "Mike McHale",
+    "title": "What an electrical apprenticeship can lead to",
+    "url": "https://technical.ly/workforce/electrician-apprenticeship-union-jobs-how-i-got-here/",
+    "date": "2026-03-27",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Skilled trades",
+      "Business & operations"
+    ],
+    "summary": "An IBEW Local 24 leader discusses entering the electrical trades and the demands of the work.",
+    "classificationNote": "Business manager role and four decades in the trade stated in the article.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "15",
+    "name": "Chelsea Kirkland",
+    "title": "Making digital skills accessible at the library",
+    "url": "https://technical.ly/civics/dc-public-library-chelsea-kirkland-how-i-got-here/",
+    "date": "2026-02-26",
+    "regions": [
+      "DC/NOVA"
+    ],
+    "experience": [
+      "Midlevel"
+    ],
+    "professions": [
+      "Education & workforce",
+      "Civic tech"
+    ],
+    "summary": "DC Public Library’s digital inclusion coordinator brings technology learning and AI discussions to residents.",
+    "classificationNote": "Midlevel suggested from the coordinator role; the source does not specify a seniority tier.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "16",
+    "name": "Jeffrey Scruggs",
+    "title": "A coding bootcamp opens a path into AI",
+    "url": "https://technical.ly/workforce/ai-engineer-morgan-state-bootcamp-how-i-got-here/",
+    "date": "2026-02-20",
+    "regions": [
+      "Maryland"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Data & AI",
+      "Software development"
+    ],
+    "summary": "A Morgan State graduate balances government technology work with a CTO role supporting HBCU entrepreneurs.",
+    "classificationNote": "Senior reflects the stated CTO role alongside his engineering work; it does not imply a senior title at LMI.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "17",
+    "name": "Cara Jones",
+    "title": "From research to using AI against human trafficking",
+    "url": "https://technical.ly/workforce/cara-jones-marinus-analytics-how-i-got-here/",
+    "date": "2026-01-29",
+    "regions": [
+      "Pittsburgh"
+    ],
+    "experience": [
+      "Senior",
+      "Founder"
+    ],
+    "professions": [
+      "Data & AI",
+      "Software development"
+    ],
+    "summary": "The Marinus Analytics cofounder traces her route from research to building investigative technology.",
+    "classificationNote": "Cofounder and CEO roles stated in the article.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "18",
+    "name": "Darius Clair",
+    "title": "Building connections across DC’s startup community",
+    "url": "https://technical.ly/professional-development/darius-clair-dc-startup-tech-week-how-i-got-here/",
+    "date": "2025-07-03",
+    "regions": [
+      "DC/NOVA"
+    ],
+    "experience": [
+      "Senior",
+      "Founder"
+    ],
+    "professions": [
+      "Ecosystem & community",
+      "Business & operations"
+    ],
+    "summary": "A programs and community director shares lessons from operating businesses and supporting founders.",
+    "classificationNote": "Director role, business ownership and launch of LaunchT stated. DC/NOVA reflects featured work; article is published in National.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "19",
+    "name": "Joanne Woytek",
+    "title": "From NASA coding to government-wide IT procurement",
+    "url": "https://technical.ly/professional-development/nasa-joanne-woytek-how-i-got-here/",
+    "date": "2024-08-22",
+    "regions": [
+      "DC/NOVA",
+      "Maryland"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "IT & consulting",
+      "Software development"
+    ],
+    "summary": "A long NASA career led to running the agency’s SEWP procurement program.",
+    "classificationNote": "Nearly 47 years at NASA and program manager role stated. Article market is DC; work and residence also connect to Maryland.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "20",
+    "name": "Rory Cooper",
+    "title": "A personal need becomes a career in assistive technology",
+    "url": "https://technical.ly/civic-news/how-i-got-here-rory-cooper-pitt-assistive-technology/",
+    "date": "2023-11-02",
+    "regions": [
+      "Pittsburgh"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "STEM"
+    ],
+    "summary": "A University of Pittsburgh researcher’s work earned national recognition for technology and innovation.",
+    "classificationNote": "Senior inferred from research leadership and national recognition; exact career tier is an editorial classification.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "21",
+    "name": "Arwen Eger",
+    "title": "From real estate to product work in rail technology",
+    "url": "https://technical.ly/professional-development/how-i-got-here-arwen-eger-hitachi-rail/",
+    "date": "2023-01-30",
+    "regions": [
+      "Pittsburgh"
+    ],
+    "experience": [
+      "Junior"
+    ],
+    "professions": [
+      "Product & project management"
+    ],
+    "summary": "A career change led to an associate product owner role at Hitachi Rail.",
+    "classificationNote": "Junior is suggested from the associate title, rather than total professional experience.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "22",
+    "name": "Dominique Clarke",
+    "title": "Community work becomes a route into engineering",
+    "url": "https://technical.ly/software-development/dominique-clarke-engineer-elastic/",
+    "date": "2022-09-12",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Software development"
+    ],
+    "summary": "Nonprofit and community experience helped a sociology graduate build a software career at Elastic.",
+    "classificationNote": "Senior software engineer explicitly stated in the article.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "23",
+    "name": "Utsav Panchal",
+    "title": "From a communications degree to search marketing",
+    "url": "https://technical.ly/professional-development/utsav-panchal-elastic/",
+    "date": "2021-10-05",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Marketing & communications"
+    ],
+    "summary": "A global search marketing manager shares how he found a career in technology.",
+    "classificationNote": "Senior inferred from global management responsibilities; exact level requires editorial review.",
+    "needsReview": true,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "24",
+    "name": "Nico Westerdale",
+    "title": "From self-taught coding to fractional CTO",
+    "url": "https://technical.ly/software-development/nico-westerdale-cto/",
+    "date": "2021-07-23",
+    "regions": [
+      "Philadelphia"
+    ],
+    "experience": [
+      "Senior"
+    ],
+    "professions": [
+      "Software development",
+      "Business & operations"
+    ],
+    "summary": "A fine arts graduate built a technology career across startups and engineering leadership.",
+    "classificationNote": "CTO role and more than two decades of technology experience stated.",
+    "needsReview": false,
+    "series": "How I Got Here",
+    "seriesEvidence": "Listed in the Technical.ly series archive or explicitly identified as part of the series in the article.",
+    "checked": "2026-10-23"
+  }
+]
